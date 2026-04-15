@@ -1,11 +1,2 @@
-# Bilkul start se (Zero space)
-import streamlit as st
+torch
 import torch
-
-# Sirf functions ya loops ke andar space honi chahiye
-def load_model():
-    model = models.mobilenet_v2(pretrained=True) # Yahan space theek hai
-    return model
-
-# Baki sab bahar wala code phir se kone mein
-model = load_model()
