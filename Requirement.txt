@@ -1,6 +1,6 @@
+import streamlit as st
+import torch
+from torchvision import models, transforms
+# Baki code niche...
 
-streamlit
-torch
-torchvision
-Pillow
-numpy
+
